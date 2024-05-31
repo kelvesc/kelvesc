@@ -1,23 +1,29 @@
-### Hi there 👋
+## Hi there 👋 I am Kelves!
 
-- 🌱 I’m currently studying at the **Universidade Federal Rural de Pernambuco (UFRPE)** as a Grad Student.
-- 😄 My research interests include **Digital Photography**, **Computer Vision**, **IoT** and **Machine Learning**.
-- 🔭 **Mail**: kelves.nunes@ufrpe.br
+- :books: I’m currently studying at the **Universidade Federal Rural de Pernambuco (UFRPE)** as a Grad Student.
+- :scientist: My research interests include:
+  - **Digital Photography**
+  - **Computer Vision**
+  - **Embedded / IoT**
+  - **Machine Learning**
+
+- :scroll: **Experiences**:
+  - ✨**Juá Labs** Algorithmic Group (Intern)✨
+  - ✨**CIN-Motoroa** QA Technician (Intern)✨  
+  - ✨**CIN-Motoroa** QA Engineer (FTE)✨  
+
+- :mailbox_with_mail: **Mail me at**: kelves.nunes@ufrpe.br
 <!-- - ⚡ **Note Blog**: [https://<TBD>](https://<TBD>) -->
-<!--- 💬 **Google Scholar**: [Jinfu Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=jdOJpl0AAAAJ)-->
-- 👯 **Experience**:  
-&emsp; -✨**Juá Labs** Algorithmic Group (Intern)✨
-&emsp; -✨**CIN-Motoroa** QA Technician (Intern)✨  
-&emsp; -✨**CIN-Motoroa** QA Engineer (FTE)✨  
-
+<!--- 💬 **Google Scholar**: [Kelves Costa](https://scholar.google.com)-->
 
 <p align="center">
 <a> <img align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=kelvesc&show_icons=true&include_all_commits=true&theme=catppuccin_latte&hide_border=true" 
+  src="https://github-readme-stats.vercel.app/api?username=kelvesc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=00000000" 
   alt="kelvesc" /> 
-</a> |
+<!-- </a> | -->
+<br>
 <a> <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvesc&layout=compact&theme=catppuccin_latte&hide_border=true" /> 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvesc&layout=compact&theme=buefy&hide_border=true&bg_color=00000000" /> 
 </a> 
 </p>
 
