@@ -1,44 +1,35 @@
-## Hi there 👋 I am Kelves!
+## Hi there, I'm Kelves!
 
-- :books: I’m currently studying at the **Universidade Federal Rural de Pernambuco (UFRPE)** as a Grad Student.
-- :scientist: My research interests include:
-  - **Digital Photography**
-  - **Computer Vision**
-  - **Embedded / IoT**
-  - **Machine Learning**
+### About Me
 
-- :scroll: **Experiences**:
-  - ✨**Juá Labs** Algorithmic Group (Intern)✨
-  - ✨**CIN-Motoroa** QA Technician (Intern)✨  
-  - ✨**CIN-Motoroa** QA Engineer (FTE)✨  
+I'm a graduate student at **Universidade Federal Rural de Pernambuco (UFRPE)** passionate about exploring the intersection of computer vision, embedded systems, and computational photography.
 
-- :mailbox_with_mail: **Mail me at**: kelves.nunes@ufrpe.br
-<!-- - ⚡ **Note Blog**: [https://<TBD>](https://<TBD>) -->
-<!--- 💬 **Google Scholar**: [Kelves Costa](https://scholar.google.com)-->
+### Research Interests
 
-<p align="center">
-<a> <img align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=kelvesc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=00000000" 
-  alt="kelvesc" /> 
-<!-- </a> | -->
-<br>
-<a> <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvesc&layout=compact&theme=buefy&hide_border=true&bg_color=00000000" /> 
-</a> 
-</p>
+- Digital Photography & Image Processing
+- Computer Vision
+- Embedded Systems & IoT
+- Machine Learning Applications
 
+### Professional Experience
 
-<!--
-**kelvesc/kelvesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Juá Labs** – Innovation Team (Research Assistant) - 
+- **CIN-Motoroa** – QA Technician (Intern): Jan-2021 - Nov-2021  
+- **CIN-Motoroa** – QA Engineer (Full-time Employee): Nov-2021 - Today
+- **Laser Lab** - Computer Vision Research Assistant (Graduate Researcher): Oct-2025 - Today
 
-Here are some ideas to get you started:
+### Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Email**: kelves.nunes@ufrpe.br
+
+---
+
+### GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvesc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&bg_color=00000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvesc&layout=compact&theme=buefy&hide_border=true&bg_color=00000000)
+
+</div>
